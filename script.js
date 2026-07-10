@@ -25,7 +25,7 @@ function sendMessage() {
     const typingElement = document.createElement("div");
     typingElement.classList.add("message", "bot");
     typingElement.id = "typing";
-    typingElement.textContent = "DecodeBot is typing...";
+    typingElement.textContent = "● ● ●";
     chatBox.appendChild(typingElement);
     chatBox.scrollTop = chatBox.scrollHeight;
 
