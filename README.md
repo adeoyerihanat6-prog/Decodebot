@@ -2,6 +2,12 @@
 
 DecodeBot is a simple rule-based AI chatbot built with **HTML, CSS, and JavaScript**. It simulates a conversation by recognizing predefined keywords and responding with appropriate messages.
 
+## 🌐 Live Demo
+
+Try DecodeBot here:
+
+https://decodebot-ten.vercel.app
+
 ## 📸 Preview
 
 ![DecodeBot Screenshot](screenshot.png)
