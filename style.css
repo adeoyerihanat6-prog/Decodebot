@@ -6,7 +6,7 @@
 }
 
 body{
-    min-height:100vh;
+    min-height: screen-height;
     background:linear-gradient(135deg,#2563eb,#7c3aed);
     display:flex;
     justify-content:center;
